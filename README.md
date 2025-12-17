@@ -39,6 +39,10 @@ python -m streamlit run web_app.py
 - Automatically opens in your browser[](http://localhost:8501)  
 - Cleaner, modern interface  
 - Great for demos and presentations
+## Screenshot
+
+<img width="1918" height="1086" alt="Screenshot 2025-12-17 232320" src="https://github.com/user-attachments/assets/542c01d1-589f-4c6a-845a-8cf6849a46d0" />
+
 
 
 ## Team Members
@@ -57,6 +61,7 @@ python -m streamlit run web_app.py
 
 Thank you for checking out our project!  
 We built this as a minimal viable product (MVP) – fully offline, easy to use, and ready for real students. 🚀
+
 
 
 
